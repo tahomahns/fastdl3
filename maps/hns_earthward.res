@@ -1,0 +1,9 @@
+maps/hns_earthward.res
+gfx/env/waterworld12up.tga
+gfx/env/waterworld12dn.tga
+gfx/env/waterworld12lf.tga
+gfx/env/waterworld12rt.tga
+gfx/env/waterworld12ft.tga
+gfx/env/waterworld12bk.tga
+models/models/palmtree_v2.mdl
+sounds/cath_birds.wav

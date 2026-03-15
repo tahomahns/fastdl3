@@ -1,0 +1,22 @@
+HnS_Minecraft
+
+**Some info about the map**
+
+- Best played with 100aa;
+
+- Max distance to jump is 256;
+
+- 13 Spawn Places for each team;
+
+- Credits to Notch or whoever made the textures. I only rescaled them and modified them a bit.
+
+- I like my clouds and my water.
+
+
+**Other Notes**
+
+I know I said I wouldn't make another map for the GoldSRC engine, but it got me in the end. Have fun.
+
+ceLoFaN						   .
+
+ 
